@@ -1,1 +1,2 @@
-this is feature3 file
+this is feature3 file ok thik
+this is added dev2 some feature 
