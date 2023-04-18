@@ -1,2 +1,3 @@
 this is feature3 file ok thik
-this is added dev2 some feature 
+this is added dev2 some feature
+dev 1 ka changes 
